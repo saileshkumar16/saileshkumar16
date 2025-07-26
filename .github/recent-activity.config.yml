@@ -1,0 +1,13 @@
+# .github/recent-activity.config.yml
+
+username: saileshkumar16
+max_items: 10  # You can increase this to 20 if you want more activity shown
+
+include:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
+  - WatchEvent
+  - ForkEvent
+  - CreateEvent
+  - PullRequestReviewEvent
