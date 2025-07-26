@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-readme:
-    name: Update recent activity in README
     runs-on: ubuntu-latest
 
     steps:
@@ -20,10 +19,10 @@ jobs:
           GH_USERNAME: saileshkumar16
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push if changes exist
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update README with recent activity"
+          git commit -m "chore: update README with recent activity" || echo "No changes to commit"
           git push
