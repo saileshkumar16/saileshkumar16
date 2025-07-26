@@ -1,27 +1,37 @@
 # Hi there 👋 I’m Sailesh Kumar
 
-🎓 Completed M.Tech in Embedded Systems from SIT Pune  
-🔧 Around 2 years of experience in Embedded Software Testing  
-🛠️ I love building real-time embedded and IoT-based solutions using STM32, Raspberry Pi, FreeRTOS, and more.  
-🚀 Open to Internships or Full-time roles in Embedded Systems / Firmware / Automotive / IoT  
+🎓 Completed M.Tech in Embedded Systems from SIT Pune (CGPA: 9.0/10)  
+🔧 2+ years of experience in Embedded Software Testing and Firmware Development  
+🛠️ Passionate about building real-time embedded and IoT systems with STM32, Raspberry Pi, FreeRTOS, and Linux  
+🚀 Open to Full-time roles or Internships in Embedded Systems / Firmware / Automotive / IoT  
 
 ## 👨‍💻 About Me
 
 - 🔭 Current Project: Smart Kitchen Safety System using Raspberry Pi + Sensors + AI  
-- 📚 Interests: RTOS, Embedded Linux, Device Drivers, Secure Boot, Automotive Protocols  
-- 🌱 Learning: Yocto, Bare-metal drivers, FreeRTOS internals  
-- 💡 I enjoy debugging tricky bugs and optimizing low-level code  
-- 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-p)  
+- 💼 Experience at Ampere Computing (Secure Boot intern) and Johnson Controls (Linux/Android test engineer)  
+- 📚 Interests: RTOS, Embedded Linux, Secure Boot, Device Drivers, Automotive Protocols  
+- 🌱 Currently Learning: Yocto, Bare-metal driver development, FreeRTOS internals  
+- 💡 I enjoy debugging tricky low-level bugs and writing memory-efficient code  
+- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-pasam-369829196/)
 
 ---
 
 ## ⚙️ Embedded Vibes
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>  
-*“When a GPIO pin toggles exactly when you want it to...”*
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Embedded cat GIF"/>
+</p>
+
+<p align="center">
+  <i>“When a GPIO pin toggles exactly when you want it to...”</i>
+</p>
 
 ---
 
 ## 🧠 My Principle
 
-> *“In embedded systems, efficiency is not a luxury — it's a necessity.”*  
+> *“In embedded systems, efficiency is not a luxury — it's a necessity.”*
+
+---
+
+<p align="center">Thanks for visiting! 🛠️</p>
