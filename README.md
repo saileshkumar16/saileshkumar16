@@ -1,70 +1,27 @@
-<h1 align="center">Hi, I'm Sailesh Kumar Pasam 👋</h1>
-<h3 align="center">Embedded Systems Engineer | M.Tech @ SIT Pune | Firmware • RTOS • Linux</h3>
+# Hi there 👋 I’m Sailesh Kumar
+
+🎓 Completed M.Tech in Embedded Systems from SIT Pune  
+🔧 Around 2 years of experience in Embedded Software Testing  
+🛠️ I love building real-time embedded and IoT-based solutions using STM32, Raspberry Pi, FreeRTOS, and more.  
+🚀 Open to Internships or Full-time roles in Embedded Systems / Firmware / Automotive / IoT  
+
+## 👨‍💻 About Me
+
+- 🔭 Current Project: Smart Kitchen Safety System using Raspberry Pi + Sensors + AI  
+- 📚 Interests: RTOS, Embedded Linux, Device Drivers, Secure Boot, Automotive Protocols  
+- 🌱 Learning: Yocto, Bare-metal drivers, FreeRTOS internals  
+- 💡 I enjoy debugging tricky bugs and optimizing low-level code  
+- 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-p)  
 
 ---
 
-### 👨‍💻 About Me
+## ⚙️ Embedded Vibes
 
-I'm an Embedded Systems Engineer with 2+ years of experience in firmware development and embedded software testing. I work on low-level programming, peripheral interfacing, and secure boot on both bare-metal and Linux platforms. I’m passionate about building robust real-time systems that integrate software with hardware.
-
-- 🎓 M.Tech in Embedded Systems, SIT Pune (Topper)
-- 💼 Worked at **Johnson Controls**, interned at **Ampere Computing**
-- ⚙️ Skilled in **STM32**, **Raspberry Pi**, **FreeRTOS**, **U-Boot**, **QEMU**
-- 📄 Published IEEE papers | Interested in IoT, TinyML, and real-time systems
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>  
+*“When a GPIO pin toggles exactly when you want it to...”*
 
 ---
 
-### 🔧 Skills
+## 🧠 My Principle
 
-**Languages:** C, Embedded C, Python  
-**RTOS/OS:** FreeRTOS, Bare-metal, Embedded Linux, U-Boot, QEMU  
-**Debugging:** GDB, UART, JTAG, Valgrind, Cppcheck, ASAN  
-**Interfaces:** UART, SPI, I2C, GPIO, ADC, DMA, Timers, PWM, Interrupts  
-**Tools:** STM32CubeIDE, Makefile, Git, PlatformIO, adb, JIRA, Wireshark  
-**Platforms:** STM32F407, Raspberry Pi, ARM Cortex-M3/M4, 8051  
-**Soft Skills:** Documentation, Problem Solving, Collaboration
-
----
-
-### 🚀 Projects
-
-#### 🌦️ Smart Weather Monitoring – STM32
-- Logged temperature using LM35 + RTC on STM32F407
-- Custom drivers for UART, I2C, LCD, and real-time display
-
-#### 🕹️ FreeRTOS on ARM Cortex-M3
-- Bare-metal FreeRTOS setup using QEMU
-- Custom startup and linker scripts with GDB validation
-
-#### 🌾 IoT Crop Protection – Raspberry Pi + YOLOv8
-- Smart farming with intrusion detection & plant monitoring
-- Alert system using Blynk IoT | Patent No: 202541034995
-
----
-
-### 🏅 Certifications
-
-- Embedded Systems – Kernel Masters  
-- ARM Cortex-M – FastBit Academy  
-- C Pointers & Memory – pyjamabrah  
-- Secure Boot (Cortex-A) – pyjamabrah  
-
----
-
-### 📰 Publications
-
-- **YOLOv5 vs YOLOv8 in Embedded Systems** – IEEE Xplore (2025)  
-- **IoT Plant Hydration Automation** – IEEE Xplore (2024)  
-- **BLDC Motor Control Simulation** – IEEE Xplore (2024)
-
----
-
-### 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-pasam-369829196/)
-- 💻 [GitHub](https://github.com/saileshkumar16)
-- 📬 Email: saileshjune16@gmail.com
-
----
-
-<p align="center">Thanks for visiting my profile!</p>
+> *“In embedded systems, efficiency is not a luxury — it's a necessity.”*  
