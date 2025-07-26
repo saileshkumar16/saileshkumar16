@@ -16,8 +16,7 @@ jobs:
       - name: Update README with recent activity
         uses: Readme-Workflows/recent-activity@main
         with:
-          GH_USERNAME: saileshkumar16
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Commit and push changes
         run: |
