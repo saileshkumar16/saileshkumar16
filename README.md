@@ -1,81 +1,65 @@
 <h1 align="center">Hi, I'm Sailesh Kumar Pasam 👋</h1>
-<h3 align="center">Embedded Systems Engineer | M.Tech @ SIT Pune | Firmware + RTOS + Linux</h3>
+<h3 align="center">Embedded Systems Engineer | M.Tech @ SIT Pune | Firmware • RTOS • Linux</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm an Embedded Systems Engineer with 2+ years of experience in firmware development and embedded software testing. I specialize in low-level programming, peripheral interfacing, and secure boot processes on both bare-metal and embedded Linux platforms. I'm passionate about building reliable, real-time systems that blend hardware with software.
+I'm an Embedded Systems Engineer with 2+ years of experience in firmware development and embedded software testing. I work on low-level programming, peripheral interfacing, and secure boot on both bare-metal and Linux platforms. I’m passionate about building robust real-time systems that integrate software with hardware.
 
 - 🎓 M.Tech in Embedded Systems, SIT Pune (Topper)
-- 💼 Former intern at **Ampere Computing** & engineer at **Johnson Controls**
-- ⚙️ Enjoy working with **STM32**, **Raspberry Pi**, **U-Boot**, **FreeRTOS**, and **QEMU**
-- 📄 IEEE Publications | Open to collaboration in IoT, TinyML, and real-time systems
+- 💼 Worked at **Johnson Controls**, interned at **Ampere Computing**
+- ⚙️ Skilled in **STM32**, **Raspberry Pi**, **FreeRTOS**, **U-Boot**, **QEMU**
+- 📄 Published IEEE papers | Interested in IoT, TinyML, and real-time systems
 
 ---
 
 ### 🔧 Skills
 
-**Languages**: C, Embedded C, Python  
-**RTOS/OS**: FreeRTOS, Bare-metal, Embedded Linux, U-Boot, QEMU  
-**Debugging & Testing**: GDB, UART, JTAG, Valgrind, Cppcheck, ASAN, Static/Dynamic Analysis  
-**Interfaces**: UART, SPI, I2C, GPIO, ADC, DMA, PWM, Timers, Interrupts  
-**Tools**: STM32CubeIDE, Makefile, Git, PlatformIO, adb, logcat, JIRA, Wireshark  
-**Platforms**: STM32F4, Raspberry Pi, ARM Cortex-M3/M4, 8051  
-**Soft Skills**: Documentation, Collaboration, Problem Solving, Task Prioritization  
+**Languages:** C, Embedded C, Python  
+**RTOS/OS:** FreeRTOS, Bare-metal, Embedded Linux, U-Boot, QEMU  
+**Debugging:** GDB, UART, JTAG, Valgrind, Cppcheck, ASAN  
+**Interfaces:** UART, SPI, I2C, GPIO, ADC, DMA, Timers, PWM, Interrupts  
+**Tools:** STM32CubeIDE, Makefile, Git, PlatformIO, adb, JIRA, Wireshark  
+**Platforms:** STM32F407, Raspberry Pi, ARM Cortex-M3/M4, 8051  
+**Soft Skills:** Documentation, Problem Solving, Collaboration
 
 ---
 
 ### 🚀 Projects
 
 #### 🌦️ Smart Weather Monitoring – STM32
-- Built a logger using LM35 and RTC on STM32F407
-- Custom drivers for UART, I2C, LCD; Data displayed in real time
+- Logged temperature using LM35 + RTC on STM32F407
+- Custom drivers for UART, I2C, LCD, and real-time display
 
-#### 🕹️ FreeRTOS on ARM Cortex-M3 (QEMU)
-- Bare-metal FreeRTOS setup with custom startup & linker script
-- Verified context switching and task states with GDB dashboard
+#### 🕹️ FreeRTOS on ARM Cortex-M3
+- Bare-metal FreeRTOS setup using QEMU
+- Custom startup and linker scripts with GDB validation
 
-#### 🌾 IoT Crop Protection System – Raspberry Pi + YOLOv8
-- Smart farming system with intrusion detection and plant health monitoring
-- Alerting via Blynk IoT; Published Patent: 202541034995
+#### 🌾 IoT Crop Protection – Raspberry Pi + YOLOv8
+- Smart farming with intrusion detection & plant monitoring
+- Alert system using Blynk IoT | Patent No: 202541034995
 
 ---
 
 ### 🏅 Certifications
 
-- Embedded Systems Programming – Kernel Masters  
-- ARM Cortex-M Programming – FastBit Academy  
-- C Pointers & Memory Management – pyjamabrah  
-- ARM Cortex-A CPUs & Secure Boot Concepts – pyjamabrah  
+- Embedded Systems – Kernel Masters  
+- ARM Cortex-M – FastBit Academy  
+- C Pointers & Memory – pyjamabrah  
+- Secure Boot (Cortex-A) – pyjamabrah  
 
 ---
 
 ### 📰 Publications
 
 - **YOLOv5 vs YOLOv8 in Embedded Systems** – IEEE Xplore (2025)  
-- **Smart Plant Hydration via IoT Automation** – IEEE Xplore (2024)  
-- **Brushless DC Motor Control with Simulation** – IEEE Xplore (2024)  
+- **IoT Plant Hydration Automation** – IEEE Xplore (2024)  
+- **BLDC Motor Control Simulation** – IEEE Xplore (2024)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saileshkumar16&show_icons=true&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshkumar16&layout=compact&hide_border=true" width="48%">
-</p>
-
----
-
-### 📢 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 📫 Let's Connect
+### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-pasam-369829196/)
 - 💻 [GitHub](https://github.com/saileshkumar16)
