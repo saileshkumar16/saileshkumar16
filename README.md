@@ -68,6 +68,13 @@ I'm an Embedded Systems Engineer with 2+ years of experience in firmware develop
 
 ---
 
+### 📢 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-pasam-369829196/)
