@@ -19,11 +19,11 @@
 ## ⚙️ Embedded Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Embedded cat GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNhZjVlYjA2YWU5ZWExNTk2OTU5N2Y2Y2Y0YjU2YTY4MzE2YTA2ZGM2YTI1ZjZlMjFlMTczMzVjZjc3NDAwZjgmbWVudWlkPXZpZGVv/2EmwFpfMvDkMGwjiu0/giphy.gif" width="300" alt="Animated computer chip/CPU"/>
 </p>
 
 <p align="center">
-  <i>“When a GPIO pin toggles exactly when you want it to...”</i>
+  <i>“My SoC: where bits become bucks.”</i>
 </p>
 
 ---
