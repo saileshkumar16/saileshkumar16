@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Sailesh Kumar
 
-🎓 Completed M.Tech in Embedded Systems from SIT Pune (CGPA: 8.88/10)  
+🎓 Completed M.Tech in Embedded Systems from SIT Pune.
 🔧 2+ years of experience in Embedded Software Testing and Firmware Development  
 🛠️ Passionate about building real-time embedded and IoT systems with STM32, Raspberry Pi, FreeRTOS, and Linux  
 🚀 Open to Full-time roles or Internships in Embedded Systems / Firmware / Automotive / IoT  
