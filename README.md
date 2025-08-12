@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Sailesh Kumar
 
-🎓 Completed M.Tech in Embedded Systems from SIT Pune.
+🎓 Completed M.Tech in Embedded Systems from SIT Pune  
 🔧 2+ years of experience in Embedded Software Testing and Firmware Development  
 🛠️ Passionate about building real-time embedded and IoT systems with STM32, Raspberry Pi, FreeRTOS, and Linux  
 🚀 Open to Full-time roles or Internships in Embedded Systems / Firmware / Automotive / IoT  
@@ -8,10 +8,12 @@
 ## 👨‍💻 About Me
 
 - 🔭 Current Project: Smart Kitchen Safety System using Raspberry Pi + Sensors + AI  
-- 💼 Experience at Ampere Computing (Secure Boot intern) and Johnson Controls (Linux/Android test engineer)  
-- 📚 Interests: RTOS, Embedded Linux, Secure Boot, Device Drivers, Automotive Protocols  
-- 🌱 Currently Learning: Yocto, Bare-metal driver development, FreeRTOS internals  
-- 💡 I enjoy debugging tricky low-level bugs and writing memory-efficient code  
+- 💼 Professional Experience:  
+  - Ampere Computing — Secure Boot Intern  
+  - Johnson Controls — Linux/Android Test Engineer  
+- 📚 Interests: RTOS, Embedded Linux, Secure Boot 
+- 🌱 Currently Learning: Operating Systems fundamentals, Linux System Programming, progressing towards Linux Kernel development  
+- 💡 Strong focus on debugging complex low-level issues and writing efficient, memory-conscious code  
 - 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/sailesh-kumar-pasam-369829196/)
 
 ---
