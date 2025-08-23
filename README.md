@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Current Project: Smart Kitchen Safety System using Raspberry Pi + Sensors + AI  
 - 💼 Professional Experience:  
   - Ampere Computing — Secure Boot Intern  
   - Johnson Controls — Linux/Android Test Engineer  
